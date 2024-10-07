@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Testing framework and react.js(sort of..)
 - 👀 I’m interested in Fullstack/Backend/Testing developer
 - 👯 I’m looking to collaborate on backend and testing project
 - 📫 How to reach me: tjitracharlie@gmail.com
