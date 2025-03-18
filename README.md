@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👀 I’m interested in Fullstack/Backend/Testing developer
-- 👯 I’m looking to collaborate on backend and testing project
+- 👯 I’m looking to collaborate on Fullstack project
 - 📫 How to reach me: tjitracharlie@gmail.com
 <!--
 **charlietjitra/charlietjitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
